@@ -1,0 +1,2 @@
+# Decision_Tree_Classification
+Dividing efficiently based on maximum information gain is key to decision tree classifier. However, in real world with millions of data dividing into pure class in practically not feasible (it may take longer training time) and so we stop at points in nodes of tree when fulfilled with certain parameters (for example impurity percentage). We shall see this in coding exercise.
